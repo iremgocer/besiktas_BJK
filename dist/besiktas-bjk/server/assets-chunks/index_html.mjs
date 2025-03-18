@@ -1,0 +1,13 @@
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
+  <meta charset="utf-8">
+  <title>BesiktasBJK</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<style>html,body,div,span,a,ul,li,nav{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}nav{display:block}body{line-height:1}ul{list-style:none}body{margin:0;padding:0;font-family:Open Sans,sans-serif;font-weight:400;color:#fff;font-size:15px;line-height:22px;background-color:#f4f4f4}a{color:#666;text-decoration:none}a:hover{color:#474545;text-decoration:none}@media (max-width: 768px){.navbar-brand{padding:6px 15px}.navbar-brand{margin-top:-6px}}
+</style><link rel="stylesheet" href="styles-R5SQXBGS.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-R5SQXBGS.css"></noscript></head>
+<body><!--nghm-->
+  <app-root ng-version="19.2.1" ngh="0" ng-server-context="ssg"><router-outlet><html lang="tr" class="no-js"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>BJK</title><meta name="description" content="Beşiktaş Jimnastik Kulübü Resmi İnternet Sitesi."><meta name="keywords" content="beşiktaş, futbol, A takım, beşiktaş fibabanka, beşiktaş dergisi, transferler"><meta name="author" content="#"><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&amp;display=swap" rel="stylesheet"><link rel="stylesheet" href="/src/styles.css"><nav class="navbar navbar-expand-lg navbar-dark bg-dark"><div class="container"><a routerlink="/" class="navbar-brand">🏴‍☠️ BJK</a><button type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" class="navbar-toggler"><span class="navbar-toggler-icon"></span></button><div id="navbarNav" class="collapse navbar-collapse"><ul class="navbar-nav ms-auto"><li class="nav-item"><a routerlink="/" class="nav-link">Ana Sayfa</a></li><li class="nav-item"><a routerlink="/hakkimizda" class="nav-link">Hakkımızda</a></li><li class="nav-item"><a routerlink="/haberler" class="nav-link">Haberler</a></li><li class="nav-item"><a routerlink="/galeri" class="nav-link">Galeri</a></li></ul></div></div></nav><router-outlet></router-outlet><!----></head></html></router-outlet><!----></app-root>
+<script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-RZIDSLR4.js" type="module"></script>
+
+<script id="ng-state" type="application/json">{"__nghData__":[{"c":{"0":[],"32":[]}}]}</script></body></html>`;

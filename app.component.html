@@ -1,0 +1,52 @@
+<router-outlet>
+  <!DOCTYPE html>
+<html class="no-js" lang="tr">
+  <head> 
+    <!-- Basic Page Needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <!--mobil uyumluluk-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>BJK</title>
+    <meta name="description" content="Beşiktaş Jimnastik Kulübü Resmi İnternet Sitesi.">
+    <meta name="keywords" content="beşiktaş, futbol, A takım, beşiktaş fibabanka, beşiktaş dergisi, transferler">
+    <meta name="author" content="#"> 
+    <!-- ==============================================
+    Google Fonts (Yeni Format)
+=============================================== -->
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+
+<!-- ==============================================
+    Custom Stylesheet
+=============================================== -->
+<link rel="stylesheet" href="/src/styles.css">
+
+<!-- Modernizr (Eğer Kullanılıyorsa) -->
+<script src="./js/modernizr.min.js"></script>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
+    <a class="navbar-brand" routerLink="/">🏴‍☠️ BJK</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/">Ana Sayfa</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/hakkimizda">Hakkımızda</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/haberler">Haberler</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/galeri">Galeri</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<router-outlet />
